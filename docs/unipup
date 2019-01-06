@@ -1,0 +1,26 @@
+
+Models
+
+User
+	Key
+	Name
+	Courses
+
+Course
+	Key
+	Title
+	Description
+	Modules
+
+Module
+	Key
+	Title
+	Description
+	Lessons
+
+Lesson
+	Key
+	Title
+	Type
+	Content
+	
